@@ -6,5 +6,5 @@
 
 ## Authors
 * **Justin Neal**
-* **Gabriel Montero**
 * **Angel Amadi**
+* **Gabriel Montero**
